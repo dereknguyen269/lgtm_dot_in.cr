@@ -1,0 +1,18 @@
+name:
+version: 0.1.0
+
+authors:
+  - Quan Nguyen <quannguyen@bestcoder.info>
+
+# description: |
+#   Short description of
+
+dependencies:
+  crystagiri:
+    github: madeindjs/crystagiri
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+license: MIT
