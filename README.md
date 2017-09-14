@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Simple tool to help get random LGTM image from LGTM.in write by Crystal Lang 💎.
+Simple tool to help get random LGTM image from [LGTM.in](https://lgtm.in) write by Crystal Lang 💎.
 
 ### Usage
 
